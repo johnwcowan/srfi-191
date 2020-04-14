@@ -39,7 +39,7 @@
 (include "pam.scm")
 
 ;;; Test cases using fake procedures.
-  
+
 (test 1 (procedure-arity-mask '(newline 0)))
 (test 2 (procedure-arity-mask '(car 1)))
 (test 4 (procedure-arity-mask '(cons 2)))
