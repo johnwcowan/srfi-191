@@ -10,7 +10,7 @@ keywords: [[https://srfi.schemers.org/?keywords=introspection][Introspection]]
 
 This repository hosts [[https://srfi.schemers.org/srfi-191/][SRFI 191]]: Procedure Arity Inspection, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
-This SRFI is in /draft/ status.
+This SRFI is in /withdrawn/ status.
 
 See also [[https://srfi.schemers.org/srfi-102/][SRFI 102: Procedure Arity Inspection]] and [[https://srfi.schemers.org/srfi-151/][SRFI 151: Bitwise Operations]].
 
